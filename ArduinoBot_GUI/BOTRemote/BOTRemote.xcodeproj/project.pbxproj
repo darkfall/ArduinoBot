@@ -18,11 +18,25 @@
 		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
 		5086251B12C6B4B20062A67E /* BTLayer.c in Sources */ = {isa = PBXBuildFile; fileRef = 5086251A12C6B4B20062A67E /* BTLayer.c */; };
 		50A32CE412C3E756008590A0 /* StatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A32CE312C3E756008590A0 /* StatusView.m */; };
-		50B1218812C62355004A78CE /* libBTstack.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 50B1218712C62355004A78CE /* libBTstack.dylib */; };
 		50CBA87D12C3E04300012463 /* ConfigureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50CBA87B12C3E04300012463 /* ConfigureView.m */; };
 		50CBA87E12C3E04300012463 /* ConfigureView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50CBA87C12C3E04300012463 /* ConfigureView.xib */; };
 		50E6827C12C7627A00F313F3 /* BTScan.c in Sources */ = {isa = PBXBuildFile; fileRef = 50E6827B12C7627A00F313F3 /* BTScan.c */; };
 		50E6828312C764F800F313F3 /* CTools.c in Sources */ = {isa = PBXBuildFile; fileRef = 50E6828212C764F800F313F3 /* CTools.c */; };
+		8871190F1558F38C009EECC5 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8871190E1558F38C009EECC5 /* AVFoundation.framework */; };
+		887119121558F38F009EECC5 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 887119111558F38F009EECC5 /* AudioToolbox.framework */; };
+		88C2D23D1558FBC900D66165 /* cmu07a.dic in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D22F1558FBC900D66165 /* cmu07a.dic */; };
+		88C2D23E1558FBC900D66165 /* feat.params in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2311558FBC900D66165 /* feat.params */; };
+		88C2D23F1558FBC900D66165 /* mdef in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2321558FBC900D66165 /* mdef */; };
+		88C2D2401558FBC900D66165 /* means in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2331558FBC900D66165 /* means */; };
+		88C2D2411558FBC900D66165 /* noisedict in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2341558FBC900D66165 /* noisedict */; };
+		88C2D2421558FBC900D66165 /* sendump in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2351558FBC900D66165 /* sendump */; };
+		88C2D2431558FBC900D66165 /* transition_matrices in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2361558FBC900D66165 /* transition_matrices */; };
+		88C2D2441558FBC900D66165 /* variances in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2371558FBC900D66165 /* variances */; };
+		88C2D2451558FBC900D66165 /* OpenEars.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88C2D2381558FBC900D66165 /* OpenEars.framework */; };
+		88C2D2461558FBC900D66165 /* OpenEars1.dic in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D2391558FBC900D66165 /* OpenEars1.dic */; };
+		88C2D2471558FBC900D66165 /* OpenEars1.gram in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D23A1558FBC900D66165 /* OpenEars1.gram */; };
+		88C2D2481558FBC900D66165 /* OpenEars1.languagemodel in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D23B1558FBC900D66165 /* OpenEars1.languagemodel */; };
+		88C2D2491558FBC900D66165 /* OpenEars2.gram in Resources */ = {isa = PBXBuildFile; fileRef = 88C2D23C1558FBC900D66165 /* OpenEars2.gram */; };
 		88CEFF6F1558BA220002F9D9 /* ArduinoConfig.c in Sources */ = {isa = PBXBuildFile; fileRef = 88CEFF6E1558BA220002F9D9 /* ArduinoConfig.c */; };
 /* End PBXBuildFile section */
 
@@ -48,7 +62,6 @@
 		5086251A12C6B4B20062A67E /* BTLayer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BTLayer.c; sourceTree = "<group>"; };
 		50A32CE212C3E756008590A0 /* StatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusView.h; sourceTree = "<group>"; };
 		50A32CE312C3E756008590A0 /* StatusView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatusView.m; sourceTree = "<group>"; };
-		50B1218712C62355004A78CE /* libBTstack.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libBTstack.dylib; sourceTree = "<group>"; };
 		50B121C212C630E5004A78CE /* btstack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = btstack.h; sourceTree = "<group>"; };
 		50B121C312C630E5004A78CE /* hci_cmds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hci_cmds.h; sourceTree = "<group>"; };
 		50B121C412C630E5004A78CE /* linked_list.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = linked_list.h; sourceTree = "<group>"; };
@@ -63,6 +76,21 @@
 		50E6827B12C7627A00F313F3 /* BTScan.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BTScan.c; sourceTree = "<group>"; };
 		50E6828112C764F800F313F3 /* CTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTools.h; sourceTree = "<group>"; };
 		50E6828212C764F800F313F3 /* CTools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = CTools.c; sourceTree = "<group>"; };
+		8871190E1558F38C009EECC5 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		887119111558F38F009EECC5 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		88C2D22F1558FBC900D66165 /* cmu07a.dic */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = cmu07a.dic; path = ../Libs/OpenEars/cmu07a.dic; sourceTree = "<group>"; };
+		88C2D2311558FBC900D66165 /* feat.params */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = feat.params; sourceTree = "<group>"; };
+		88C2D2321558FBC900D66165 /* mdef */ = {isa = PBXFileReference; lastKnownFileType = file; path = mdef; sourceTree = "<group>"; };
+		88C2D2331558FBC900D66165 /* means */ = {isa = PBXFileReference; lastKnownFileType = file; path = means; sourceTree = "<group>"; };
+		88C2D2341558FBC900D66165 /* noisedict */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = noisedict; sourceTree = "<group>"; };
+		88C2D2351558FBC900D66165 /* sendump */ = {isa = PBXFileReference; lastKnownFileType = file; path = sendump; sourceTree = "<group>"; };
+		88C2D2361558FBC900D66165 /* transition_matrices */ = {isa = PBXFileReference; lastKnownFileType = file; path = transition_matrices; sourceTree = "<group>"; };
+		88C2D2371558FBC900D66165 /* variances */ = {isa = PBXFileReference; lastKnownFileType = file; path = variances; sourceTree = "<group>"; };
+		88C2D2381558FBC900D66165 /* OpenEars.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenEars.framework; path = ../Libs/OpenEars/OpenEars.framework; sourceTree = "<group>"; };
+		88C2D2391558FBC900D66165 /* OpenEars1.dic */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = OpenEars1.dic; path = ../Libs/OpenEars/OpenEars1.dic; sourceTree = "<group>"; };
+		88C2D23A1558FBC900D66165 /* OpenEars1.gram */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = OpenEars1.gram; path = ../Libs/OpenEars/OpenEars1.gram; sourceTree = "<group>"; };
+		88C2D23B1558FBC900D66165 /* OpenEars1.languagemodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = OpenEars1.languagemodel; path = ../Libs/OpenEars/OpenEars1.languagemodel; sourceTree = "<group>"; };
+		88C2D23C1558FBC900D66165 /* OpenEars2.gram */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = OpenEars2.gram; path = ../Libs/OpenEars/OpenEars2.gram; sourceTree = "<group>"; };
 		88CEFF6D1558B9190002F9D9 /* ArduinoConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArduinoConfig.h; sourceTree = "<group>"; };
 		88CEFF6E1558BA220002F9D9 /* ArduinoConfig.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ArduinoConfig.c; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* BOTRemote-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BOTRemote-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -73,10 +101,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				887119121558F38F009EECC5 /* AudioToolbox.framework in Frameworks */,
+				8871190F1558F38C009EECC5 /* AVFoundation.framework in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
-				50B1218812C62355004A78CE /* libBTstack.dylib in Frameworks */,
+				88C2D2451558FBC900D66165 /* OpenEars.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,7 +147,15 @@
 		29B97314FDCFA39411CA2CEA /* BOTRemote */ = {
 			isa = PBXGroup;
 			children = (
-				50B1218712C62355004A78CE /* libBTstack.dylib */,
+				887119111558F38F009EECC5 /* AudioToolbox.framework */,
+				8871190E1558F38C009EECC5 /* AVFoundation.framework */,
+				88C2D22F1558FBC900D66165 /* cmu07a.dic */,
+				88C2D2301558FBC900D66165 /* hub4wsj_sc_8k */,
+				88C2D2381558FBC900D66165 /* OpenEars.framework */,
+				88C2D2391558FBC900D66165 /* OpenEars1.dic */,
+				88C2D23A1558FBC900D66165 /* OpenEars1.gram */,
+				88C2D23B1558FBC900D66165 /* OpenEars1.languagemodel */,
+				88C2D23C1558FBC900D66165 /* OpenEars2.gram */,
 				50B121C012C630E5004A78CE /* Includes */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -185,6 +223,21 @@
 			path = btstack;
 			sourceTree = "<group>";
 		};
+		88C2D2301558FBC900D66165 /* hub4wsj_sc_8k */ = {
+			isa = PBXGroup;
+			children = (
+				88C2D2311558FBC900D66165 /* feat.params */,
+				88C2D2321558FBC900D66165 /* mdef */,
+				88C2D2331558FBC900D66165 /* means */,
+				88C2D2341558FBC900D66165 /* noisedict */,
+				88C2D2351558FBC900D66165 /* sendump */,
+				88C2D2361558FBC900D66165 /* transition_matrices */,
+				88C2D2371558FBC900D66165 /* variances */,
+			);
+			name = hub4wsj_sc_8k;
+			path = ../Libs/OpenEars/hub4wsj_sc_8k;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -235,6 +288,18 @@
 				282CCBFE0DB6C98000C4EA27 /* StatusView.xib in Resources */,
 				2840D7CE1179279E00D7F93C /* PilotView.xib in Resources */,
 				50CBA87E12C3E04300012463 /* ConfigureView.xib in Resources */,
+				88C2D23D1558FBC900D66165 /* cmu07a.dic in Resources */,
+				88C2D23E1558FBC900D66165 /* feat.params in Resources */,
+				88C2D23F1558FBC900D66165 /* mdef in Resources */,
+				88C2D2401558FBC900D66165 /* means in Resources */,
+				88C2D2411558FBC900D66165 /* noisedict in Resources */,
+				88C2D2421558FBC900D66165 /* sendump in Resources */,
+				88C2D2431558FBC900D66165 /* transition_matrices in Resources */,
+				88C2D2441558FBC900D66165 /* variances in Resources */,
+				88C2D2461558FBC900D66165 /* OpenEars1.dic in Resources */,
+				88C2D2471558FBC900D66165 /* OpenEars1.gram in Resources */,
+				88C2D2481558FBC900D66165 /* OpenEars1.languagemodel in Resources */,
+				88C2D2491558FBC900D66165 /* OpenEars2.gram in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +331,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../Libs/OpenEars\"",
+				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -287,6 +356,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../Libs/OpenEars\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = BOTRemote_Prefix.pch;
 				INFOPLIST_FILE = "BOTRemote-Info.plist";

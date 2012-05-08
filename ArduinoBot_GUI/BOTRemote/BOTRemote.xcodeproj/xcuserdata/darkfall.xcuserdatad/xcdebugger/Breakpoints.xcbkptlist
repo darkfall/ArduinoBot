@@ -23,13 +23,27 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "ConfigureView.m"
-         timestampString = "358137102.888683"
+         timestampString = "358156184.261334"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "89"
-         endingLineNumber = "89"
+         startingLineNumber = "168"
+         endingLineNumber = "168"
          landmarkName = "-TestButtonClick:"
          landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "ConfigureView.h"
+         timestampString = "358155266.218537"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "53"
+         endingLineNumber = "53"
+         landmarkName = "pocketsphinxController"
+         landmarkType = "19">
       </FileBreakpoint>
    </FileBreakpoints>
 </Bucket>

@@ -19,6 +19,7 @@ enum ArduinoOperations {
     AO_MoveRightUp = 6,
     AO_MoveUpUp = 7,
     AO_MoveDownUp = 8,
+    AO_MoveStop = 9,
     
     AO_LeftSpeedUp = 20,
     AO_LeftSpeedDown = 21,

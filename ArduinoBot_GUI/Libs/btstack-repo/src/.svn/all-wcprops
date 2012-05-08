@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/utils.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/Makefile.in
+END
+linked_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/linked_list.c
+END
+l2cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/l2cap.c
+END
+libBTstack.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/libBTstack.dylib
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/daemon.c
+END
+l2cap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/l2cap.h
+END
+socket_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/socket_connection.c
+END
+BTdaemon
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/BTdaemon
+END
+hci_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_cmds.c
+END
+hci_transport_h4.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_transport_h4.c
+END
+hci_transport_h5.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_transport_h5.c
+END
+socket_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/socket_connection.h
+END
+get_version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/get_version.sh
+END
+run_loop_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/run_loop_posix.c
+END
+sdp_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/sdp_util.c
+END
+hci_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_transport.h
+END
+sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/sdp.c
+END
+hci_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_dump.c
+END
+btstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/btstack.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/debug.h
+END
+sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/sdp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/Makefile
+END
+run_loop_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/run_loop_private.h
+END
+l2cap_signaling.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/l2cap_signaling.c
+END
+hci_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_dump.h
+END
+run_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/run_loop.c
+END
+Makefile.am.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/Makefile.am.disabled
+END
+l2cap_signaling.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/l2cap_signaling.h
+END
+hci.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci.c
+END
+run_loop_embedded.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/run_loop_embedded.c
+END
+hci.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci.h
+END
+bt_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/bt_control.h
+END
+run_loop_cocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/run_loop_cocoa.m
+END
+bt_control_iphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/bt_control_iphone.h
+END
+bt_control_iphone.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/bt_control_iphone.m
+END
+remote_device_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/remote_device_db.h
+END
+platform_iphone.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/platform_iphone.c
+END
+hci_transport_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/hci_transport_usb.c
+END
+platform_iphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/platform_iphone.h
+END
+remote_device_db_iphone.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/src/remote_device_db_iphone.m
+END

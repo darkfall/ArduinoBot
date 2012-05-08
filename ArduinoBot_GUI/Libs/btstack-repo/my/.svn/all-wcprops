@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my
+END
+BTScan.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/BTScan.h
+END
+BTLayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/BTLayer.c
+END
+CTools.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/CTools.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/main.c
+END
+BTLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/BTLayer.h
+END
+CTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/CTools.h
+END
+BTScan.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/BTScan.c
+END
+myBT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/myBT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/my/Makefile
+END

@@ -1,0 +1,366 @@
+TBTstackCocoa
+v7
+r0
+t315218692.489150
+cCheck dependencies
+cProcessInfoPlistFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/Info.plist BTstackCocoa-Info.plist
+cProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D0F73400000000000000132
+t1292858176
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/time.h
+c000000004A73D6550000000000001E17
+t1249105493
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src/libBTstack.dylib
+c000000004D18478700000000000093B0
+t1293436807
+s37808
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch
+c000000004D18478C00000000000000C1
+t1293436812
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDevice.o
+t1293525892
+s21564
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDiscoveryViewController.o
+t1293525892
+s60012
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackCocoa.LinkFileList
+c000000004D19A38200000000000002B1
+t1293525890
+s689
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackManager.o
+t1293525892
+s55108
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/TestBTstackManager.o
+t1293525892
+s55892
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app
+t2
+s0
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app.dSYM
+t2
+s0
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa
+t2
+s0
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/Info.plist
+t1293525890
+s614
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/PkgInfo
+t1293525890
+s8
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTDevice.h
+c000000004D1847890000000000000CA6
+t1293436809
+s3238
+i<Foundation/Foundation.h>
+i<btstack/utils.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTDiscoveryViewController.h
+c000000004D1847890000000000000A8C
+t1293436809
+s2700
+i<UIKit/UIKit.h>
+i<BTstack/BTstackManager.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTstackManager.h
+c000000004D18478900000000000018C7
+t1293436809
+s6343
+i<Foundation/Foundation.h>
+i<stdint.h>
+i<btstack/btstack.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/btstack/BTDevice.h
+c000000004D1847890000000000000CA6
+t1293436809
+s3238
+i<Foundation/Foundation.h>
+i<btstack/utils.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+c000000004D18478B0000000000000F97
+t1293436811
+s3991
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+c000000004D18478B00000000000027F4
+t1293436811
+s10228
+i<BTstack/BTDiscoveryViewController.h>
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+c000000004D18478B0000000000004CA6
+t1293436811
+s19622
+i<BTstack/BTstackManager.h>
+i<btstack/btstack.h>
+i<btstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.h
+c000000004D18478B0000000000000798
+t1293436811
+s1944
+i<Foundation/Foundation.h>
+i<BTstack/BTstackManager.h>
+i<BTstack/BTDiscoveryViewController.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+c000000004D18478B0000000000000F9B
+t1293436811
+s3995
+i"TestBTstackManager.h"
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/btstack.h
+c000000004D1847820000000000000B21
+t1293436802
+s2849
+i<btstack/hci_cmds.h>
+i<btstack/run_loop.h>
+i<btstack/utils.h>
+i<stdint.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/hci_cmds.h
+c000000004D18478200000000000027D3
+t1293436802
+s10195
+i<stdint.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/linked_list.h
+c000000004D18478200000000000009E1
+t1293436802
+s2529
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/run_loop.h
+c000000004D1847820000000000000B00
+t1293436802
+s2816
+i<btstack/linked_list.h>
+i<sys/time.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/utils.h
+c000000004D1847820000000000001116
+t1293436802
+s4374
+i<stdint.h>
+
+N/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch.gch
+t1293525891
+s15232016
+
+NBTstackCocoa-Info.plist
+c000000004D18478C000000000000035E
+t1293436812
+s862
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315218690#315218690#0(0"0(0#1#0"8613793120#0"0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315218691.942569
+e315218692.064975
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDevice.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m315218691#315218692#0(0"0(0#0#81"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m8613815168#2393"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources/i386 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDevice.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315218691.943425
+e315218692.089311
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDiscoveryViewController.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m315218691#315218692#0(0"0(0#0#98"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m8613467680#2427"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources/i386 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTDiscoveryViewController.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315218691.944154
+e315218692.128086
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m315218691#315218692#0(0"0(0#0#87"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m8613136032#2405"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources/i386 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackManager.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315218691.944914
+e315218692.078672
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/TestBTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m315218691#315218692#0(0"0(0#0#91"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m8612810848#2413"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources/i386 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/TestBTstackManager.o0#
+
+CGenerateDSYMFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app.dSYM /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa
+r0
+
+CLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa normal i386
+s315218692.128164
+e315218692.488969
+r0
+xLd
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa
+xnormal
+xi386
+old: warning: in /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/src/libBTstack.dylib, file was built for arm??? which is not the architecture being linked (i386)
+oUndefined symbols:
+o  "_btstack_get_system_bluetooth_enabled", referenced from:
+o      _btstack_get_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _btstack_get_system_bluetooth_enabled$non_lazy_ptr)
+o  "_btstack_set_power_mode", referenced from:
+o      _btstack_set_power_mode$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _btstack_set_power_mode$non_lazy_ptr)
+o  "_hci_link_key_request_reply", referenced from:
+o      _hci_link_key_request_reply$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_link_key_request_reply$non_lazy_ptr)
+o  "_btstack_set_system_bluetooth_enabled", referenced from:
+o      _btstack_set_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _btstack_set_system_bluetooth_enabled$non_lazy_ptr)
+o  "_bt_register_packet_handler", referenced from:
+o      -[BTstackManager init] in BTstackManager.o
+o  "_run_loop_init", referenced from:
+o      -[BTstackManager init] in BTstackManager.o
+o  "_hci_inquiry_cancel", referenced from:
+o      _hci_inquiry_cancel$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_inquiry_cancel$non_lazy_ptr)
+o  "_bt_send_cmd", referenced from:
+o      -[BTstackManager activate] in BTstackManager.o
+o      -[BTstackManager deactivate] in BTstackManager.o
+o      -[BTstackManager startDiscovery] in BTstackManager.o
+o      -[BTstackManager stopDiscovery] in BTstackManager.o
+o      -[BTstackManager stopDiscovery] in BTstackManager.o
+o      -[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager discoveryRemoteName] in BTstackManager.o
+o      -[BTstackManager discoveryRemoteName] in BTstackManager.o
+o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o
+o  "_hci_write_inquiry_mode", referenced from:
+o      _hci_write_inquiry_mode$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_write_inquiry_mode$non_lazy_ptr)
+o  "_bt_open", referenced from:
+o      -[BTstackManager activate] in BTstackManager.o
+o  "_hci_inquiry", referenced from:
+o      _hci_inquiry$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_inquiry$non_lazy_ptr, _hci_inquiry_cancel$non_lazy_ptr )
+o  "_hci_link_key_request_negative_reply", referenced from:
+o      _hci_link_key_request_negative_reply$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_link_key_request_negative_reply$non_lazy_ptr)
+o  "_hci_remote_name_request", referenced from:
+o      _hci_remote_name_request$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr, _hci_remote_name_request$non_lazy_ptr )
+o  "_bt_flip_addr", referenced from:
+o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o
+o      -[BTstackManager handleLinkKeyNotificationEvent:withLen:] in BTstackManager.o
+o  "_hci_remote_name_request_cancel", referenced from:
+o      _hci_remote_name_request_cancel$non_lazy_ptr in BTstackManager.o
+o     (maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr)
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@129"Link /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa315218692#315218692#0(3666"ld: warning: in /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/src/libBTstack.dylib, file was built for arm??? which is not the architecture being linked (i386)Undefined symbols:  "_btstack_get_system_bluetooth_enabled", referenced from:      _btstack_get_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o     (maybe you meant: _btstack_get_system_bluetooth_enabled$non_lazy_ptr)  "_btstack_set_power_mode", referenced from:      _btstack_set_power_mode$non_lazy_ptr in BTstackManager.o     (maybe you meant: _btstack_set_power_mode$non_lazy_ptr)  "_hci_link_key_request_reply", referenced from:      _hci_link_key_request_reply$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_link_key_request_reply$non_lazy_ptr)  "_btstack_set_system_bluetooth_enabled", referenced from:      _btstack_set_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o     (maybe you meant: _btstack_set_system_bluetooth_enabled$non_lazy_ptr)  "_bt_register_packet_handler", referenced from:      -[BTstackManager init] in BTstackManager.o  "_run_loop_init", referenced from:      -[BTstackManager init] in BTstackManager.o  "_hci_inquiry_cancel", referenced from:      _hci_inquiry_cancel$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_inquiry_cancel$non_lazy_ptr)  "_bt_send_cmd", referenced from:      -[BTstackManager activate] in BTstackManager.o      -[BTstackManager deactivate] in BTstackManager.o      -[BTstackManager startDiscovery] in BTstackManager.o      -[BTstackManager stopDiscovery] in BTstackManager.o      -[BTstackManager stopDiscovery] in BTstackManager.o      -[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager discoveryRemoteName] in BTstackManager.o      -[BTstackManager discoveryRemoteName] in BTstackManager.o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o  "_hci_write_inquiry_mode", referenced from:      _hci_write_inquiry_mode$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_write_inquiry_mode$non_lazy_ptr)  "_bt_open", referenced from:      -[BTstackManager activate] in BTstackManager.o  "_hci_inquiry", referenced from:      _hci_inquiry$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_inquiry$non_lazy_ptr, _hci_inquiry_cancel$non_lazy_ptr )  "_hci_link_key_request_negative_reply", referenced from:      _hci_link_key_request_negative_reply$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_link_key_request_negative_reply$non_lazy_ptr)  "_hci_remote_name_request", referenced from:      _hci_remote_name_request$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr, _hci_remote_name_request$non_lazy_ptr )  "_bt_flip_addr", referenced from:      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o      -[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o      -[BTstackManager handleLinkKeyNotificationEvent:withLen:] in BTstackManager.o  "_hci_remote_name_request_cancel", referenced from:      _hci_remote_name_request_cancel$non_lazy_ptr in BTstackManager.o     (maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr)ld: symbol(s) not foundcollect2: ld returned 1 exit status58(22@156"In /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/src/libBTstack.dylib, file was built for arm??? which is not the architecture being linked (i386)315218692#0#170#0(6@0"315218692#0#0#0#0#0"0(4@57""_btstack_get_system_bluetooth_enabled", referenced from:315218692#189#60#0(6@0"315218692#0#0#0#0#0"0(13@70"_btstack_get_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o315218692#249#77#0(6@0"315218692#0#0#0#0#0"0(13@69"(maybe you meant: _btstack_get_system_bluetooth_enabled$non_lazy_ptr)315218692#326#75#0(6@0"315218692#0#0#0#0#0"0(4@43""_btstack_set_power_mode", referenced from:315218692#401#46#0(6@0"315218692#0#0#0#0#0"0(13@56"_btstack_set_power_mode$non_lazy_ptr in BTstackManager.o315218692#447#63#0(6@0"315218692#0#0#0#0#0"0(13@55"(maybe you meant: _btstack_set_power_mode$non_lazy_ptr)315218692#510#61#0(6@0"315218692#0#0#0#0#0"0(4@47""_hci_link_key_request_reply", referenced from:315218692#571#50#0(6@0"315218692#0#0#0#0#0"0(13@60"_hci_link_key_request_reply$non_lazy_ptr in BTstackManager.o315218692#621#67#0(6@0"315218692#0#0#0#0#0"0(13@59"(maybe you meant: _hci_link_key_request_reply$non_lazy_ptr)315218692#688#65#0(6@0"315218692#0#0#0#0#0"0(4@57""_btstack_set_system_bluetooth_enabled", referenced from:315218692#753#60#0(6@0"315218692#0#0#0#0#0"0(13@70"_btstack_set_system_bluetooth_enabled$non_lazy_ptr in BTstackManager.o315218692#813#77#0(6@0"315218692#0#0#0#0#0"0(13@69"(maybe you meant: _btstack_set_system_bluetooth_enabled$non_lazy_ptr)315218692#890#75#0(6@0"315218692#0#0#0#0#0"0(4@47""_bt_register_packet_handler", referenced from:315218692#965#50#0(6@0"315218692#0#0#0#0#0"0(13@42"-[BTstackManager init] in BTstackManager.o315218692#1015#49#0(6@0"315218692#0#0#0#0#0"0(4@34""_run_loop_init", referenced from:315218692#1064#37#0(6@0"315218692#0#0#0#0#0"0(13@42"-[BTstackManager init] in BTstackManager.o315218692#1101#49#0(6@0"315218692#0#0#0#0#0"0(4@39""_hci_inquiry_cancel", referenced from:315218692#1150#42#0(6@0"315218692#0#0#0#0#0"0(13@52"_hci_inquiry_cancel$non_lazy_ptr in BTstackManager.o315218692#1192#59#0(6@0"315218692#0#0#0#0#0"0(13@51"(maybe you meant: _hci_inquiry_cancel$non_lazy_ptr)315218692#1251#57#0(6@0"315218692#0#0#0#0#0"0(4@32""_bt_send_cmd", referenced from:315218692#1308#35#0(6@0"315218692#0#0#0#0#0"0(13@46"-[BTstackManager activate] in BTstackManager.o315218692#1343#53#0(6@0"315218692#0#0#0#0#0"0(13@48"-[BTstackManager deactivate] in BTstackManager.o315218692#1396#55#0(6@0"315218692#0#0#0#0#0"0(13@52"-[BTstackManager startDiscovery] in BTstackManager.o315218692#1451#59#0(6@0"315218692#0#0#0#0#0"0(13@51"-[BTstackManager stopDiscovery] in BTstackManager.o315218692#1510#58#0(6@0"315218692#0#0#0#0#0"0(13@51"-[BTstackManager stopDiscovery] in BTstackManager.o315218692#1568#58#0(6@0"315218692#0#0#0#0#0"0(13@68"-[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o315218692#1626#75#0(6@0"315218692#0#0#0#0#0"0(13@68"-[BTstackManager activationHandleEvent:withLen:] in BTstackManager.o315218692#1701#75#0(6@0"315218692#0#0#0#0#0"0(13@57"-[BTstackManager discoveryRemoteName] in BTstackManager.o315218692#1776#64#0(6@0"315218692#0#0#0#0#0"0(13@57"-[BTstackManager discoveryRemoteName] in BTstackManager.o315218692#1840#64#0(6@0"315218692#0#0#0#0#0"0(13@67"-[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o315218692#1904#74#0(6@0"315218692#0#0#0#0#0"0(13@72"-[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o315218692#1978#79#0(6@0"315218692#0#0#0#0#0"0(13@72"-[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o315218692#2057#79#0(6@0"315218692#0#0#0#0#0"0(4@43""_hci_write_inquiry_mode", referenced from:315218692#2136#46#0(6@0"315218692#0#0#0#0#0"0(13@56"_hci_write_inquiry_mode$non_lazy_ptr in BTstackManager.o315218692#2182#63#0(6@0"315218692#0#0#0#0#0"0(13@55"(maybe you meant: _hci_write_inquiry_mode$non_lazy_ptr)315218692#2245#61#0(6@0"315218692#0#0#0#0#0"0(4@28""_bt_open", referenced from:315218692#2306#31#0(6@0"315218692#0#0#0#0#0"0(13@46"-[BTstackManager activate] in BTstackManager.o315218692#2337#53#0(6@0"315218692#0#0#0#0#0"0(4@32""_hci_inquiry", referenced from:315218692#2390#35#0(6@0"315218692#0#0#0#0#0"0(13@45"_hci_inquiry$non_lazy_ptr in BTstackManager.o315218692#2425#52#0(6@0"315218692#0#0#0#0#0"0(13@79"(maybe you meant: _hci_inquiry$non_lazy_ptr, _hci_inquiry_cancel$non_lazy_ptr )315218692#2477#85#0(6@0"315218692#0#0#0#0#0"0(4@56""_hci_link_key_request_negative_reply", referenced from:315218692#2562#59#0(6@0"315218692#0#0#0#0#0"0(13@69"_hci_link_key_request_negative_reply$non_lazy_ptr in BTstackManager.o315218692#2621#76#0(6@0"315218692#0#0#0#0#0"0(13@68"(maybe you meant: _hci_link_key_request_negative_reply$non_lazy_ptr)315218692#2697#74#0(6@0"315218692#0#0#0#0#0"0(4@44""_hci_remote_name_request", referenced from:315218692#2771#47#0(6@0"315218692#0#0#0#0#0"0(13@57"_hci_remote_name_request$non_lazy_ptr in BTstackManager.o315218692#2818#64#0(6@0"315218692#0#0#0#0#0"0(13@103"(maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr, _hci_remote_name_request$non_lazy_ptr )315218692#2882#109#0(6@0"315218692#0#0#0#0#0"0(4@33""_bt_flip_addr", referenced from:315218692#2991#36#0(6@0"315218692#0#0#0#0#0"0(13@67"-[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o315218692#3027#74#0(6@0"315218692#0#0#0#0#0"0(13@67"-[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o315218692#3101#74#0(6@0"315218692#0#0#0#0#0"0(13@67"-[BTstackManager discoveryHandleEvent:withLen:] in BTstackManager.o315218692#3175#74#0(6@0"315218692#0#0#0#0#0"0(13@72"-[BTstackManager handleLinkKeyRequestEvent:withLen:] in BTstackManager.o315218692#3249#79#0(6@0"315218692#0#0#0#0#0"0(13@77"-[BTstackManager handleLinkKeyNotificationEvent:withLen:] in BTstackManager.o315218692#3328#84#0(6@0"315218692#0#0#0#0#0"0(4@51""_hci_remote_name_request_cancel", referenced from:315218692#3412#54#0(6@0"315218692#0#0#0#0#0"0(13@64"_hci_remote_name_request_cancel$non_lazy_ptr in BTstackManager.o315218692#3466#71#0(6@0"315218692#0#0#0#0#0"0(13@63"(maybe you meant: _hci_remote_name_request_cancel$non_lazy_ptr)315218692#3537#69#0(6@0"315218692#0#0#0#0#0"0(13@19"Symbol(s) not found315218692#3606#24#0(6@0"315218692#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status315218692#3630#36#0(6@0"315218692#0#0#0#0#0"0(0#0#0"8601002560#1151"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -filelist /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/Objects-normal/i386/BTstackCocoa.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lBTstack -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/BTstackCocoa1#
+
+CProcessInfoPlistFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/Info.plist BTstackCocoa-Info.plist
+s315218690.979258
+e315218690.983100
+r1
+xProcessInfoPlistFile
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/Info.plist
+xBTstackCocoa-Info.plist
+lSLF07#2@31"Process BTstackCocoa-Info.plist315218690#315218690#0(0"0(0#0#90"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa-Info.plist8613126944#578"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BTstackCocoa-Info.plist -genpkginfo /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app/Info.plist0#
+
+CProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315218690.983200
+e315218691.942487
+r1
+xProcessPCH
+x/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch.gch
+xBTstackCocoa_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile BTstackCocoa_Prefix.pch315218690#315218691#0(0"0(0#0#90"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch8603488416#2240"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources/i386 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphonesimulator/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch -o /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-hfngzlesthfamjcqdigtyfcawbvk/BTstackCocoa_Prefix.pch.gch0#
+
+CTouch /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphonesimulator/BTstackCocoa.app
+r0
+

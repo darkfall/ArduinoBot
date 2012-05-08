@@ -1,0 +1,236 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BTstackCocoa */ = {
+		activeExec = 0;
+		executables = (
+			509BA16A12C9DAB700D41051 /* BTstackCocoa */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 509BA16A12C9DAB700D41051 /* BTstackCocoa */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BTstackCocoa */;
+		codeSenseManager = 509BA17E12C9DAF300D41051 /* Code sense */;
+		executables = (
+			509BA16A12C9DAB700D41051 /* BTstackCocoa */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1272,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315415888;
+			PBXWorkspaceStateSaveDate = 315415888;
+		};
+		perUserProjectItems = {
+			509BA1AE12C9DF7B00D41051 /* PBXTextBookmark */ = 509BA1AE12C9DF7B00D41051 /* PBXTextBookmark */;
+			50E5507112CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507112CCEB57009DC9C0 /* PBXTextBookmark */;
+			50E5507212CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507212CCEB57009DC9C0 /* PBXTextBookmark */;
+			50E5507312CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507312CCEB57009DC9C0 /* PBXTextBookmark */;
+			50E5507412CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507412CCEB57009DC9C0 /* PBXTextBookmark */;
+			50E5507512CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507512CCEB57009DC9C0 /* PBXTextBookmark */;
+			50E5507612CCEB57009DC9C0 /* PBXTextBookmark */ = 50E5507612CCEB57009DC9C0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 509BA17D12C9DAF300D41051 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BTstackCocoa_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1450, 771}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	509BA16A12C9DAB700D41051 /* BTstackCocoa */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BTstackCocoa;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	509BA17D12C9DAF300D41051 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	509BA17E12C9DAF300D41051 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	509BA1AE12C9DF7B00D41051 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C04BB19107E9AEF002A63D0 /* BTDevice.h */;
+		name = "BTDevice.h: 49";
+		rLen = 0;
+		rLoc = 1921;
+		rType = 0;
+		vrLen = 1577;
+		vrLoc = 1325;
+	};
+	50E5507112CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C04BB12107E9AD8002A63D0 /* BTDevice.m */;
+		name = "BTDevice.m: 87";
+		rLen = 0;
+		rLoc = 3015;
+		rType = 0;
+		vrLen = 1686;
+		vrLoc = 2305;
+	};
+	50E5507212CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BTstackCocoa_Prefix.pch */;
+		name = "BTstackCocoa_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	50E5507312CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C9AB4F112525E65008B4D52 /* BTDiscoveryViewController.m */;
+		name = "BTDiscoveryViewController.m: 295";
+		rLen = 0;
+		rLoc = 8560;
+		rType = 0;
+		vrLen = 1798;
+		vrLoc = 5007;
+	};
+	50E5507412CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C9AB4F312525E65008B4D52 /* TestBTstackManager.m */;
+		name = "TestBTstackManager.m: 8";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 2828;
+		vrLoc = 49;
+	};
+	50E5507512CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C9AB4F212525E65008B4D52 /* BTstackManager.m */;
+		name = "BTstackManager.m: 42";
+		rLen = 132;
+		rLoc = 1767;
+		rType = 0;
+		vrLen = 1747;
+		vrLoc = 1046;
+	};
+	50E5507612CCEB57009DC9C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9C9AB4F212525E65008B4D52 /* BTstackManager.m */;
+		name = "BTstackManager.m: 551";
+		rLen = 0;
+		rLoc = 17234;
+		rType = 0;
+		vrLen = 1745;
+		vrLoc = 17877;
+	};
+	9C04BB12107E9AD8002A63D0 /* BTDevice.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1690}}";
+			sepNavSelRange = "{3015, 0}";
+			sepNavVisRange = "{2305, 1686}";
+		};
+	};
+	9C04BB19107E9AEF002A63D0 /* BTDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1222}}";
+			sepNavSelRange = "{1921, 0}";
+			sepNavVisRange = "{1325, 1577}";
+		};
+	};
+	9C9AB4F112525E65008B4D52 /* BTDiscoveryViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1450, 4589}}";
+			sepNavSelRange = "{8560, 0}";
+			sepNavVisRange = "{5007, 1798}";
+			sepNavWindowFrame = "{{61, 573}, {750, 558}}";
+		};
+	};
+	9C9AB4F212525E65008B4D52 /* BTstackManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1450, 8242}}";
+			sepNavSelRange = "{17234, 0}";
+			sepNavVisRange = "{17877, 1745}";
+		};
+	};
+	9C9AB4F312525E65008B4D52 /* TestBTstackManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1450, 1209}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{49, 2828}";
+		};
+	};
+}

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/main.m
+END
+wiimote_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/wiimote_logo.png
+END
+rotation.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/rotation.c
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/control
+END
+wiimote_texture.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/wiimote_texture.png
+END
+wiimote_logo_55px.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/wiimote_logo_55px.png
+END
+wiimote_coords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/wiimote_coords.txt
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/package.sh
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/Info.plist
+END
+WiiMoteOpenGLDemo_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/example/WiiMoteOpenGLDemo/WiiMoteOpenGLDemo_Prefix.pch
+END

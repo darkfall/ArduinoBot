@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/3rdparty
+END
+launch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/3rdparty/launch.h
+END
+substrate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/3rdparty/substrate.h
+END
+libsubstrate.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/3rdparty/libsubstrate.dylib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/3rdparty/README
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/control
+END
+FSO_BTstackActive.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/FSO_BTstackActive.png
+END
+Default_BTstack.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/Default_BTstack.png
+END
+ch.ringwald.BTstack.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/ch.ringwald.BTstack.plist
+END
+FSO_BTstack.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/FSO_BTstack.png
+END
+ch.ringwald.BTstackTCP.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/ch.ringwald.BTstackTCP.plist
+END
+Default_BTstackActive.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/resources/Default_BTstackActive.png
+END

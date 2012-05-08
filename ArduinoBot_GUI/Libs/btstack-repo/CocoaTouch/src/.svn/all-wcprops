@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/main.m
+END
+BTDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+END
+BTInquiryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTInquiryViewController.m
+END
+TestBTstackManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+END
+BTstackManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+END
+BTstackCocoaAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackCocoaAppDelegate.h
+END
+BTDiscoveryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+END
+BTstackCocoaAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackCocoaAppDelegate.m
+END
+TestBTstackManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.h
+END

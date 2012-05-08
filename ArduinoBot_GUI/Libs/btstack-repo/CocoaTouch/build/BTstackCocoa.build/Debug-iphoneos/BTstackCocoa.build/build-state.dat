@@ -1,0 +1,460 @@
+TBTstackCocoa
+v7
+r0
+t315218957.723369
+cCheck dependencies
+cProcessInfoPlistFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/Info.plist BTstackCocoa-Info.plist
+cProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa normal armv6
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa normal armv7
+cCreateUniversalBinary /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa normal "armv6 armv7"
+cGenerateDSYMFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app.dSYM /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa
+cPhaseScriptExecution "Run Script" /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Script-509BA1A112C9DBEF00D41051.sh
+cTouch /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004D0F7AED0000000000000154
+t1292860141
+s340
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/sys/time.h
+c000000004BFDFE1B0000000000001E17
+t1274936859
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdint.h
+c000000004BCCA2A2000000000000190C
+t1271702178
+s6412
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src/libBTstack.dylib
+c000000004D18478700000000000093B0
+t1293436807
+s37808
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch
+c000000004D18478C00000000000000C1
+t1293436812
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDevice.o
+t1293525864
+s20560
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDiscoveryViewController.o
+t1293525864
+s57928
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa
+t1293525864
+s64076
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa.LinkFileList
+c000000004D19A3670000000000000299
+t1293525863
+s665
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackManager.o
+t1293525864
+s50772
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/TestBTstackManager.o
+t1293525864
+s54900
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDevice.o
+t1293525864
+s20196
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDiscoveryViewController.o
+t1293525864
+s57520
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa
+t1293525864
+s59956
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa.LinkFileList
+c000000004D19A3670000000000000299
+t1293525863
+s665
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackManager.o
+t1293525864
+s49908
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/TestBTstackManager.o
+t1293525864
+s54696
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Script-509BA1A112C9DBEF00D41051.sh
+c000000004D19A48D00000000000001C9
+t1293526157
+s457
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app
+t1293526157
+s272
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app.dSYM
+t1293525864
+s102
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa
+t1293525864
+s143792
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/Info.plist
+t1293525863
+s689
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/PkgInfo
+t1293525863
+s8
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTDevice.h
+c000000004D1847890000000000000CA6
+t1293436809
+s3238
+i<Foundation/Foundation.h>
+i<btstack/utils.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTDiscoveryViewController.h
+c000000004D1847890000000000000A8C
+t1293436809
+s2700
+i<UIKit/UIKit.h>
+i<BTstack/BTstackManager.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/BTstack/BTstackManager.h
+c000000004D18478900000000000018C7
+t1293436809
+s6343
+i<Foundation/Foundation.h>
+i<stdint.h>
+i<btstack/btstack.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/include/btstack/BTDevice.h
+c000000004D1847890000000000000CA6
+t1293436809
+s3238
+i<Foundation/Foundation.h>
+i<btstack/utils.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+c000000004D18478B0000000000000F97
+t1293436811
+s3991
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+c000000004D18478B00000000000027F4
+t1293436811
+s10228
+i<BTstack/BTDiscoveryViewController.h>
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+c000000004D19A7D30000000000004CA6
+t1293526995
+s19622
+i<BTstack/BTstackManager.h>
+i<btstack/btstack.h>
+i<btstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.h
+c000000004D18478B0000000000000798
+t1293436811
+s1944
+i<Foundation/Foundation.h>
+i<BTstack/BTstackManager.h>
+i<BTstack/BTDiscoveryViewController.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+c000000004D18478B0000000000000F9B
+t1293436811
+s3995
+i"TestBTstackManager.h"
+i<BTstack/BTDevice.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/btstack.h
+c000000004D1847820000000000000B21
+t1293436802
+s2849
+i<btstack/hci_cmds.h>
+i<btstack/run_loop.h>
+i<btstack/utils.h>
+i<stdint.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/hci_cmds.h
+c000000004D18478200000000000027D3
+t1293436802
+s10195
+i<stdint.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/linked_list.h
+c000000004D18478200000000000009E1
+t1293436802
+s2529
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/run_loop.h
+c000000004D1847820000000000000B00
+t1293436802
+s2816
+i<btstack/linked_list.h>
+i<sys/time.h>
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/include/btstack/utils.h
+c000000004D1847820000000000001116
+t1293436802
+s4374
+i<stdint.h>
+
+N/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch.gch
+t1293525863
+s10290736
+
+N/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch.gch
+t1293525863
+s9831984
+
+NBTstackCocoa-Info.plist
+c000000004D18478C000000000000035E
+t1293436812
+s862
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315218957#315218957#0(0"0(0#1#0"8618835680#0"0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315218663.947929
+e315218664.094558
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDevice.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m315218663#315218664#0(0"0(0#0#81"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m8615651584#2216"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv6 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDevice.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315218663.948753
+e315218664.120212
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDiscoveryViewController.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m315218663#315218664#0(0"0(0#0#98"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m8615341216#2250"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv6 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTDiscoveryViewController.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315218663.949475
+e315218664.175525
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m315218663#315218664#0(0"0(0#0#87"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m8614777248#2228"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv6 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackManager.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315218663.950197
+e315218664.103691
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/TestBTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m315218663#315218664#0(0"0(0#0#91"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m8614000928#2236"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv6 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/TestBTstackManager.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDevice.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315218663.950938
+e315218664.085529
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDevice.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m315218663#315218664#0(0"0(0#0#81"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m8613488864#2216"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv7 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDevice.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDevice.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDiscoveryViewController.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315218663.951715
+e315218664.120441
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDiscoveryViewController.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m315218663#315218664#0(0"0(0#0#98"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m8603753536#2250"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv7 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTDiscoveryViewController.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTDiscoveryViewController.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315218663.952500
+e315218664.170751
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m315218663#315218664#0(0"0(0#0#87"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m8613466048#2228"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv7 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/BTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackManager.o0#
+
+CCompileC build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/TestBTstackManager.o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315218663.953227
+e315218664.097050
+r1
+xCompileC
+xbuild/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/TestBTstackManager.o
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m315218663#315218664#0(0"0(0#0#91"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m8613114080#2236"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv7 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -include /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/src/TestBTstackManager.m -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/TestBTstackManager.o0#
+
+CCreateUniversalBinary /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa normal "armv6 armv7"
+s315218664.211605
+e315218664.214881
+r1
+xCreateUniversalBinary
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa normal "armv6 armv7"315218664#315218664#0(0"0(0#0#78"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/armv6 armv78613574816#670"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa -output /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa0#
+
+CGenerateDSYMFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app.dSYM /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa
+s315218664.214941
+e315218664.238432
+r1
+xGenerateDSYMFile
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app.dSYM
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/BTstackCocoa.app.dSYM build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa315218664#315218664#0(0"0(0#0#117"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa8613390112#461"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/BTstackCocoa -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app.dSYM0#
+
+CLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa normal armv6
+s315218664.175591
+e315218664.211541
+r1
+xLd
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa
+xnormal
+xarmv6
+lSLF07#2@164"Link /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa315218664#315218664#0(0"0(0#0#0"8615626208#1115"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -filelist /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -lBTstack -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa0#
+
+CLd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa normal armv7
+s315218664.170830
+e315218664.211071
+r1
+xLd
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa
+xnormal
+xarmv7
+lSLF07#2@164"Link /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa315218664#315218664#0(0"0(0#0#0"8616024992#1115"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -L/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -filelist /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -lBTstack -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa0#
+
+CPhaseScriptExecution "Run Script" /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Script-509BA1A112C9DBEF00D41051.sh
+s315218957.520082
+e315218957.723253
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Script-509BA1A112C9DBEF00D41051.sh
+lSLF07#2@36"Run custom shell script 'Run Script'315218957#315218957#0(0"0(0#0#0"8613289664#18917"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER nix    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv6 armv7"    setenv ARCHS_STANDARD_32_64_BIT "armv6 armv7"    setenv ARCHS_STANDARD_32_BIT "armv6 armv7"    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build    setenv BUILD_ROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos    setenv CACHE_ROOT /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED NO    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv CODE_SIGN_IDENTITY "Don't Code Sign"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH BTstackCocoa.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/BTstackCocoa.dst    setenv DWARF_DSYM_FILE_NAME BTstackCocoa.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH BTstackCocoa.app/Executables    setenv EXECUTABLE_FOLDER_PATH BTstackCocoa.app    setenv EXECUTABLE_NAME BTstackCocoa    setenv EXECUTABLE_PATH BTstackCocoa.app/BTstackCocoa    setenv FILE_LIST /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH BTstackCocoa.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME BTstackCocoa.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER BTstackCocoa_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include\" /Projects/iPhone/btstack/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE BTstackCocoa-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH BTstackCocoa.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/BTstackCocoa.dst/Users/nix/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER nix    setenv INSTALL_PATH /Users/nix/Applications    setenv INSTALL_ROOT /tmp/BTstackCocoa.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH BTstackCocoa.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-LinkMap-normal-armv7.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos\"  \"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/../src\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv6/BTstackCocoa.LinkFileList    setenv LINK_FILE_LIST_normal_armv7 /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal/armv7/BTstackCocoa.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Objects-normal    setenv OBJROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-I../CocoaTouch/include -I../include"    setenv OTHER_CPLUSPLUSFLAGS "-I../CocoaTouch/include -I../include"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH BTstackCocoa.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/PkgInfo    setenv PKGINFO_PATH BTstackCocoa.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH BTstackCocoa.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH BTstackCocoa.app/PrivateHeaders    setenv PRODUCT_NAME BTstackCocoa    setenv PRODUCT_SETTINGS_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT BTstackCocoa    setenv PROJECT_DERIVED_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/DerivedSources    setenv PROJECT_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PROJECT_FILE_PATH /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa.xcodeproj    setenv PROJECT_NAME BTstackCocoa    setenv PROJECT_TEMP_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH BTstackCocoa.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH BTstackCocoa.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk    setenv SDK_NAME iphoneos4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH BTstackCocoa.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH BTstackCocoa.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv SRCROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/SymbolRepositories    setenv SYMROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME BTstackCocoa    setenv TARGET_BUILD_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos    setenv TARGET_NAME BTstackCocoa    setenv TARGET_TEMP_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build    setenv TEMP_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build    setenv TEMP_FILES_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build    setenv TEMP_FILE_DIR /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build    setenv TEMP_ROOT /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH BTstackCocoa.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER nix    setenv USER_APPS_DIR /Users/nix/Applications    setenv USER_LIBRARY_DIR /Users/nix/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH BTstackCocoa.app/version.plist    setenv VERSION_INFO_BUILDER nix    setenv VERSION_INFO_FILE BTstackCocoa_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:BTstackCocoa  PROJECT:BTstackCocoa-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME BTstackCocoa.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/Script-509BA1A112C9DBEF00D41051.sh0#
+
+CProcessInfoPlistFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/Info.plist BTstackCocoa-Info.plist
+s315218663.330423
+e315218663.334475
+r1
+xProcessInfoPlistFile
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/Info.plist
+xBTstackCocoa-Info.plist
+lSLF07#2@31"Process BTstackCocoa-Info.plist315218663#315218663#0(0"0(0#0#90"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa-Info.plist8614828928#550"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BTstackCocoa-Info.plist -genpkginfo /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app/Info.plist0#
+
+CProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315218663.335269
+e315218663.947850
+r1
+xProcessPCH
+x/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch.gch
+xBTstackCocoa_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile BTstackCocoa_Prefix.pch315218663#315218663#0(0"0(0#0#90"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch8613777184#2069"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv7 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch -o /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-crkyumejjgeizbherhsputmsyhxp/BTstackCocoa_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch.gch BTstackCocoa_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315218663.334556
+e315218663.913193
+r1
+xProcessPCH
+x/var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch.gch
+xBTstackCocoa_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile BTstackCocoa_Prefix.pch315218663#315218663#0(0"0(0#0#90"/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch8613988576#2069"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-generated-files.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-own-target-headers.hmap -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-all-target-headers.hmap -iquote /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/BTstackCocoa-project-headers.hmap -F/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/include -I/Projects/iPhone/btstack/include -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources/armv6 -I/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/BTstackCocoa.build/Debug-iphoneos/BTstackCocoa.build/DerivedSources -I../CocoaTouch/include -I../include -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/BTstackCocoa_Prefix.pch -o /var/folders/lm/lm4OrUPaFsa8Wsxoz+75Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BTstackCocoa_Prefix-eyrwojlwjkvyfdbehiotwihsfdep/BTstackCocoa_Prefix.pch.gch0#
+
+CTouch /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app
+s315218664.238496
+e315218664.240457
+r1
+xTouch
+x/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app
+lSLF07#2@110"Touch /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app315218664#315218664#0(0"0(0#0#0"8613233376#325"    cd /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug-iphoneos/BTstackCocoa.app0#
+

@@ -1,0 +1,32 @@
+TBTstackCocoa
+v7
+r1
+cCheck dependencies
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug/BTstackCocoa.app
+t2
+s0
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug/BTstackCocoa.app/Contents/Info.plist
+t2
+s0
+
+N/Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug/BTstackCocoa.app/Contents/PkgInfo
+t2
+s0
+
+NBTstackCocoa-Info.plist
+c000000004D18478C000000000000035E
+t1293436812
+s862
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315218621#315218621#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'315218621#18446744073709551615#0#0(1@0"0(0#1#0"8615961824#0"0#
+
+CProcessInfoPlistFile /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug/BTstackCocoa.app/Contents/Info.plist BTstackCocoa-Info.plist
+r0
+
+CTouch /Users/nix/NixBot/Projects/NixBot_GUI/Libs/btstack-repo/CocoaTouch/build/Debug/BTstackCocoa.app
+r0
+

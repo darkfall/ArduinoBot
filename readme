@@ -1,0 +1,22 @@
+Modified nixBot project for my iPhone and Arduino Uno 3 with RN42 and btstack
+Original project by nix from http://code.google.com/p/nixbot/
+
+Original Disclaimer
+"Disclamer:
+
+WARNING !!!
+
+This project was done without any basic intention of been shared.
+
+This project was basically done by myself for myself, just for fun and without code checking/cleaning ... so, it might be full of bugs !
+
+You can use it as is, following the rules of GPLv2, but do not expect any rewrite/correction of possible bugs.
+
+THIS PROJECT DO NOT USE THE ARDUINO IDE !! => it is designed to be build on a unix environnement using the Makefile. (I use OSX, if other you should edit the Makefile and change some variables : path to avrdude, arduino libs, etc ...)
+
+Description:
+
+Just an Arduino Mega based 2 wheel robot piloted via bluetooth with a BTM222 module, it also as a implementation of an autonomous mode, but not finished to implement it completely.
+
+The piloting software is for IPhone and was done under Xcode.
+"

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/Makefile.in
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/TODO.txt
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config.log
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/bootstrap.sh
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/configure.in
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config.status
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config.guess
+END
+addCopyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/addCopyright.sh
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/ltmain.sh
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/package.sh
+END
+SDP.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/SDP.txt
+END
+config-cydia.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/config-cydia.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/Makefile.am
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/aclocal.m4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/NixBot_GUI/Libs/btstack-repo/Makefile
+END

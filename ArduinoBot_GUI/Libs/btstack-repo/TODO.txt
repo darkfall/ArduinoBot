@@ -1,0 +1,68 @@
+/* new todo file for BTstack */
+
+2009-11-08: Release 0.1
+2010-06-20: Release 0.2 - SDP + iOS 4 support
+2010-11-2x: Release 0.2 - revsion 973 for WeBe++
+- Fix for regression bug in 0.2-899 that prevented automatic disabling of Apple Bluetooth stack, less crashes
+- Startup: send kill signal to BlueTool and BTServer, if necessary
+- Connection setup: don't close baseband during authentication
+- Remote Device DB: automatic link key handling in BTdaemon, provide cached remote names during inquiry
+- SDP: use 1000 bytes MTU, fix partial responses, fix an incompatibility with Windows native statck
+- Cocoa run_loop: added timeouts, include in libBTstack.dylib build
+2010-xxxx: Release 0.2 - revions xxx
+- limit size of /tmp/hci_dump.pklg to 1000 packets (max 1 MB)
+
+   
+NEXT:
+- figure out how to receive iPhone System Power IONotifications (in BTdaemon) to detect, when phone gets locked
+- have a look at External Accessory interface by Apple - it's quite similar
+- move RFCOMM code into BTdaemon
+- HCI CMD packet is limited to 1024 bytes payload. SDP records could be larger than that. Options:
+  - provide a way to transfer SDP records in segments
+  - ignore HCI command lenght on socket connection and directly stream data without buffer
+- L2CAP 
+  - segmentation
+- Link Key storage in Bluetooth module
+  - store link keys in Bluetooth module. requires algorithm to evict old one but unclear how to implement that
+- extend SpringBoard feedback
+  - show alerts/messages using SpringBoardAcccess, e.g. Bluetooth disconnected by remote device
+  - add code to notify about remote disconnets
+- configuration: /etc/btstack
+  - single Bluetooth module supported
+  - transport type: H4, H5, USB
+  - h4/h5: UART path
+  - usb: product/vendor ID
+  - logging mode: text, bluez, packetlogger
+- add configure option for uart flowcontrol
+- create <btstack/errors.h>
+- Bluetooth low-power modes useful
+
+== USB Support ==
+- Store array of data sources to be able to remove them on usb_close
+- create little "reserve Bluetooth module on Mac OS X" tool
+
+== Objective-C Interface ==
+- have a look at External Accessory interface by Apple - it's quite similar
+- move connection methods to BTdevice (get more object oriented)
+  - initWithAddress:(bd_addr_t *)addr
+  - setters private
+- implement l2cap code
+- implement rfcomm code
+- animate discovery dialog:
+  * use indexPathsForVisibleRows and cellForRowAtIndexPath: when you want to refresh just the cells that are on the screen
+  * use insertRowsAtIndexPaths:withRowAnimation: to add rows
+  * use deleteRowsAtIndexPaths:withRowAnimation: to remove them-
+
+== Refactor/Improve Architecture ==
+- add linked_list_iterator that can remove elements (used by l2cap_close_connection and sdp_unregister_services_for_connection
+- clean up control flow
+  - l2cap directly sends data over socket: good/bad?
+  - split daemon into stack parts
+  - should there be STACK API/interface?
+- unify packet generation
+  - btstack events
+  - cmd packets
+  - l2cap commands
+- auto-generate code for sending commands from structured text input file
+- devise concept for access to event data
+  - auto-generate event struct getter? STRUCTURE_get_FIELD
